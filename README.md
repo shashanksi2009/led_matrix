@@ -1,14 +1,12 @@
 # led_matrix
-This arduino code for my 24*16 LED matrix
+This arduino code for my 24*16 LED matrix\n
 
-This program is written in Arduino IDE 1.6.7
-written by Shashank Singh ( Team Leader of Team CRITICAL)
+This program is written in Arduino IDE 1.6.7\n
+written by Shashank Singh ( Team Leader of Team CRITICAL)\n
 for TECHKRITI - 2016 ( ELECTROMANIA ) . 
 Team Members are Shashank Singh , Ausaf Jafri and Devesh Sethia .
-We are student of Motilal Nehru National Institute of Technology ( NIT ALLAHABAD ) , 2nd year pursuing Electronics and
-Communication Engineering .
  
- Program : - BREAK THE BRICKS GAME MADE FOR 24*16 LED Matrix
+ Program >> BREAK THE BRICKS GAME MADE FOR 24*16 LED Matrix
    
    
    
