@@ -1,5 +1,5 @@
 # led_matrix
-This arduino code for my 24*16 LED matrix\n
+This arduino code for my 24*16 LED matrix
 
 This program is written in Arduino IDE 1.6.7
  
@@ -26,9 +26,9 @@ This program is written in Arduino IDE 1.6.7
 9> Interactive Game
 
 10> Name can be enter using 360 degree 1k potentiometer joystick control (All 26 alphabets can be used using POTENTIOMETER 
-Joystick which we call as " Funstick " 
+Joystick which we call as " Funstick " )
 
-11> Block size , ball and paddle speed changed according to LEVEL
+11> Block size , ball and paddle speed changed according to LEVEL .
 
 12> Ball speed even changes in a level
 
