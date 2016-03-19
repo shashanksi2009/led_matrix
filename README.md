@@ -30,9 +30,9 @@ Joystick which we call as " Funstick " )
 
 11> Block size , ball and paddle speed changed according to LEVEL .
 
-
-Full LED matrix making steps , video , and documents links are coming soon ......
-
 12> Ball speed even changes in a level
 
 13> Follows the law of momentum
+
+
+Full LED matrix making steps , video , and documents links are coming soon ......
