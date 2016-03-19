@@ -23,7 +23,7 @@ This program is written in Arduino IDE 1.6.7
 
 8> No extra LCD required , all data is shown on big LED display such as Level name , score , highest score , username ,etc. 
 
-9> Interactive Game
+9> Interactive Gaming
 
 10> Name can be enter using 360 degree 1k potentiometer joystick control (All 26 alphabets can be used using POTENTIOMETER 
 Joystick which we call as " Funstick " )
@@ -35,4 +35,4 @@ Joystick which we call as " Funstick " )
 13> Follows the law of momentum
 
 
-Full LED matrix making steps , video , and documents links are coming soon ......
+Full LED matrix making steps , videos , and documents links are coming soon ......
